@@ -28,7 +28,7 @@
 
 I’m a **passionate Full Stack Developer** focused on building **scalable MERN applications** with modern UI and **AI integrations**.
 
-- 🔭 Currently building **AI-powered Resume Builder (MERN + Gemini AI)**
+- 🔭 Currently building **AI-powered Multi-Vendor E-Commerce App using Next js | PERN Stack **
 - 🌱 Learning **Advanced React patterns, system design & AI in web apps**
 - 🧠 Strong interest in **product-quality frontend + clean backend APIs**
 - ⚡ I value **clean code, UX, and real-world problem solving**
