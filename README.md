@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#4F46E5">Sunthush GMS</span></h1>
 
 <p align="center">
-  <b>Full Stack Developer (MERN) • AI-Driven Web Apps • Sri Lanka</b>
+  <b>Full Stack Developer • AI-Driven Web Apps • Sri Lanka</b>
 </p>
 
 <p align="center">
