@@ -146,7 +146,7 @@ I'm actively looking for:
 
 <br/>
 
-**📧** [comdev362@gmail.com](mailto:comdev362@gmail.com) &nbsp;•&nbsp; **💼** [linkedin.com/in/gmssanthush](https://linkedin.com/in/gmssanthush) &nbsp;•&nbsp; **🌐** [Portfolio](https://my-portfolio-swart-psi-26.vercel.app/)
+**📧** [comdev362@gmail.com](mailto:comdev362@gmail.com) &nbsp;•&nbsp; **💼** [linkedin.com/in/gmssanthush](https://www.linkedin.com/in/g-m-s-santhush-931208300/) &nbsp;•&nbsp; **🌐** [Portfolio](https://portfolio-ten-sand-k7egqd8xss.vercel.app/)
 
 </div>
 
