@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://my-portfolio-swart-psi-26.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://portfolio-ten-sand-k7egqd8xss.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-m-s-santhush-931208300/)
 [![Email](https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comdev362@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sunthushgms&label=Profile+Views&color=302b63&style=for-the-badge)](https://github.com/SunthushGMS)
